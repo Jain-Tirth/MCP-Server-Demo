@@ -70,5 +70,4 @@ This project demonstrates a Model Context Protocol (MCP) server and client integ
 - Ensure your Twitter/X app permissions are set to "Read and Write" and use regenerated access tokens after changing permissions.
 - Sensitive files like `.env` and credential JSONs are gitignored for security.
 
-## License
-MIT
+
